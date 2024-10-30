@@ -31,4 +31,6 @@ Worst Case -> O(n^2)
 Average Case -> O(n^2)
 
 Space Complexity : O(1)
+
+Where we use --> complexity does not matter and simple and shortcode preferred
 */

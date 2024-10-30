@@ -1,9 +1,18 @@
 package algorithm.sorting;
 
-//ascending order using Heap Sort
+/* first build max heap then remove the elements to get ascending order */
 public class HeapSort {
     public static void main(String[] args) {
+        int[] arr = {81, 89, 9, 11, 14, 76, 54, 22};
+        buildMinHeap(arr, arr.length);
 
+    }
+    public static void buildMinHeap(int[] arr, int n){
+        int[] minHeap = new int[n];
+        for(int i = 0; i < n; i++){
+            int j = ;
+            while(minHeap[i] )
+        }
     }
 }
 
