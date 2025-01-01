@@ -10,8 +10,8 @@ public class HeapSort {
     public static void buildMinHeap(int[] arr, int n){
         int[] minHeap = new int[n];
         for(int i = 0; i < n; i++){
-            int j = ;
-            while(minHeap[i] )
+//            int j = ;
+//            while(minHeap[i] )
         }
     }
 }
